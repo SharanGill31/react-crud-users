@@ -5,6 +5,14 @@
 
 This is a scalable, recruiter-friendly CRUD application for managing users, built with React, TypeScript, Material UI, and Vite. It demonstrates best practices in architecture, schema-driven forms, API service abstraction, and clean UI/UX patterns. The project is designed for easy extensibility and rapid prototyping.
 
+## 🚀 Live Demo
+
+🔗 **Live App:** https://react-crud-users.vercel.app  
+🔗 **GitHub Repo:** https://github.com/SharanGill31/react-crud-users
+
+> ⚠️ **Note:** This project uses `json-server` as a mock REST API.  
+> CRUD operations work fully in local setup when the mock API is running.
+
 ## Tech Stack
 
 - **React** (with hooks)
